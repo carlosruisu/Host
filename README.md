@@ -1,2 +1,4 @@
-# Host
-list os hosts
+
+Hosts file
+
+List of HostsMan
